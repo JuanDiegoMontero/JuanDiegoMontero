@@ -4,11 +4,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<a>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)</a>
 
-[![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/)
+<a>[![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/)</a>
 
-[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
+<a>[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)</a>
 
 </p>
 
