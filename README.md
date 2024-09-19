@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Juan Montero
-# Developer Web jr 
+Developer Web jr 
 
 <!--
 **JuanDiegoMontero/JuanDiegoMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
