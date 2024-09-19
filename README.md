@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Juan Montero</h1>
-<h3 align="center">Developer Web jr</h3>
+<h1 align="left">Hi 👋, I'm Juan Montero</h1>
+<h3 align="left">Developer Web jr</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 [![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/)
