@@ -3,13 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/juan-diego-montero-murcia-69536632a/)">
+  <a href="https://www.linkedin.com/in/juan-diego-montero-murcia-69536632a/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="[https://twitter.com/](https://www.facebook.com/juandiego.montero.77?mibextid=ZbWKwL)">
+  <a href="https://www.facebook.com/juandiego.montero.77?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
   </a>
-  <a href="[https://www.instagram.com/](https://www.instagram.com/tero_en_ig?igsh=MXVodTFhcGU0MGlmbw==)">
+  <a href="https://www.instagram.com/tero_en_ig?igsh=MXVodTFhcGU0MGlmbw==">
     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 </p>
